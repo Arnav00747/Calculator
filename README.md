@@ -29,6 +29,10 @@ Calculator/
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
+## 🌐 Live Demo
+
+https://calculator-rouge-six-35.vercel.app
+
 ---
 
 ✨ Built for practice and improving JavaScript fundamentals.
